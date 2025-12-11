@@ -30,16 +30,3 @@ Currently, I focus on projects that combine technical development, visual design
 src="https://img.shields.io/github/followers/Sohrab-Malikzada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/MalikzadaS70003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MalikzadaS70003?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Sohrab-Malikzada"><img src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sohrab-Malikzada's GitHub stats" /></a>
-
-<a href="http://www.github.com/Sohrab-Malikzada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab-Malikzada&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Sohrab-Malikzada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Sohrab-Malikzada/Template" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohrab-Malikzada&repo=Template&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
