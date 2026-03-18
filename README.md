@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sohrab Malikzada
 =========================================================================================================================================
 
-Front-end Developer | Graphic Designer | Professional Painter
+Full-Stack Developer | Graphic Designer | Professional Painter
 ------------------------------------------------------------------
 
-I am a Front-end Developer with deep expertise in Front-end Development, UI/UX design, and modular component architecture. My experience spans diverse projects such as Store Management(Dashboard), Weather Pro, E-commerce Software as a Service Platform, Learn Well Platform ... , responsive interfaces, and accessible web applications. Using technologies like HTML, CSS, JavaScript, React, and Tailwind CSS, I build solutions that are both visually appealing and highly user‑friendly.
+I am a Full-Stack Developer with deep expertise in Front-end Development, UI/UX design, and modular component architecture. My experience spans diverse projects such as Store Management(Dashboard), Weather Pro, E-commerce Software as a Service Platform, Learn Well Platform ... , responsive interfaces, and accessible web applications. Using technologies like HTML, CSS, JavaScript, Tailwind CSS, MongoDB, Express.js, React.js, and Node.js, I build solutions that are both visually appealing and highly user‑friendly.
 
 Alongside web development, I am also a Graphic Designer with hands‑on experience in various creative projects, including branding, advertising, and digital design. I am proficient in Adobe tools such as Photoshop, Illustrator, Premier Pro, and After Effects, enabling me to deliver designs that balance aesthetics with functionality.
 
