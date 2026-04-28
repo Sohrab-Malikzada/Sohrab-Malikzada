@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=200&section=header&text=Sohrab%20Malikzada&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sohrab%20Malikzada" width="100%" />
 
   <h3>👨‍💻 Full-Stack Developer | 🎨 Graphic Designer | 🖌️ Professional Painter</h3>
   
