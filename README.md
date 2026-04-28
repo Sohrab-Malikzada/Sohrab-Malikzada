@@ -4,11 +4,33 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer | Graphic Designer | Professional Painter
 ------------------------------------------------------------------
 
-I am a Full-Stack Developer with deep expertise in Front-end Development, UI/UX design, and modular component architecture. My experience spans diverse projects such as Store Management(Dashboard), Weather Pro, E-commerce Software as a Service Platform, Learn Well Platform ... , responsive interfaces, and accessible web applications. Using technologies like HTML, CSS, JavaScript, Tailwind CSS, MongoDB, Express.js, React.js, and Node.js, I build solutions that are both visually appealing and highly user‑friendly.
+I am Sohrab Malikzada, a Full-stack Mobile and Web Application Developer with strong
+expertise across front-end engineering, back-end development, and modern mobile app
+ecosystems.
+I specialize in building scalable, high-performance applications with a focus
+on clean architecture, modular component design, and seamless user experience.
+My portfolio includes a range of production-level projects such as Store Management
+Dashboards, Weather Pro applications, E-commerce SaaS platforms, and educational
+systems like Learn Well.
+I design and develop responsive, accessible, and user-centric
+interfaces that perform consistently across devices and platforms.
+Technically, I work with a modern stack including Flutter, React Native, JavaScript,
+React.js, Tailwind CSS, Node.js, Express.js, SQL, and MongoDB, enabling me to deliver
+end-to-end solutions—from intuitive UI layers to robust server-side architectures and
+scalable databases.
+Beyond development, I bring a strong background in UI/UX design and visual
+communication. As a Graphic Designer, I have hands-on experience in branding,
+advertising, and digital product design, using industry-standard tools such as Adobe
+Photoshop, Illustrator, Premiere Pro, and After Effects. This allows me to bridge the gap
+between engineering and design, ensuring products are both functional and visually
+compelling.
+In parallel, I am also a Professional Painter, experienced in oil painting, watercolor,
+pencil sketching, and mural art. This artistic foundation strengthens my design thinking
+and adds a unique creative dimension to my digital work.
+Currently, I focus on building integrated digital experiences that combine technology,
+design, and artistic vision. I am open to collaborating on projects that demand precision,
+scalability, creativity, and user-centric innovation.
 
-Alongside web development, I am also a Graphic Designer with hands‑on experience in various creative projects, including branding, advertising, and digital design. I am proficient in Adobe tools such as Photoshop, Illustrator, Premier Pro, and After Effects, enabling me to deliver designs that balance aesthetics with functionality.
-
-In addition, I am a Professional Painter with extensive experience in multiple artistic styles, including oil painting, watercolor, pencil sketching, and mural art. Art is not just a passion for me—it’s a discipline that influences my digital design work, bringing creativity and depth into every project.
 
 Currently, I focus on projects that combine technical development, visual design, and fine art into cohesive, impactful experiences. I am open to collaborations where precision, creativity, and user‑centric solutions are valued.
 
