@@ -1,54 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sohrab Malikzada
-=========================================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=200&section=header&text=Sohrab%20Malikzada&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-Full-Stack Developer | Graphic Designer | Professional Painter
-------------------------------------------------------------------
+  <h3>👨‍💻 Full-Stack Developer | 🎨 Graphic Designer | 🖌️ Professional Painter</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sohrab-Malikzada&label=Profile%20Views&color=0891b2&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/github/followers/Sohrab-Malikzada?label=Followers&style=flat-square&color=0891b2" alt="Followers" />
+  </p>
 
-I am Sohrab Malikzada, a Full-stack Mobile and Web Application Developer with strong
-expertise across front-end engineering, back-end development, and modern mobile app
-ecosystems.
-I specialize in building scalable, high-performance applications with a focus
-on clean architecture, modular component design, and seamless user experience.
-My portfolio includes a range of production-level projects such as Store Management
-Dashboards, Weather Pro applications, E-commerce SaaS platforms, and educational
-systems like Learn Well.
-I design and develop responsive, accessible, and user-centric
-interfaces that perform consistently across devices and platforms.
-Technically, I work with a modern stack including Flutter, React Native, JavaScript,
-React.js, Tailwind CSS, Node.js, Express.js, SQL, and MongoDB, enabling me to deliver
-end-to-end solutions—from intuitive UI layers to robust server-side architectures and
-scalable databases.
-Beyond development, I bring a strong background in UI/UX design and visual
-communication. As a Graphic Designer, I have hands-on experience in branding,
-advertising, and digital product design, using industry-standard tools such as Adobe
-Photoshop, Illustrator, Premiere Pro, and After Effects. This allows me to bridge the gap
-between engineering and design, ensuring products are both functional and visually
-compelling.
-In parallel, I am also a Professional Painter, experienced in oil painting, watercolor,
-pencil sketching, and mural art. This artistic foundation strengthens my design thinking
-and adds a unique creative dimension to my digital work.
-Currently, I focus on building integrated digital experiences that combine technology,
-design, and artistic vision. I am open to collaborating on projects that demand precision,
-scalability, creativity, and user-centric innovation.
+  ---
 
+  *"Merging the precision of code with the soul of art. Every interface is a canvas, every line of code a brushstroke."*
+</div>
 
-Currently, I focus on projects that combine technical development, visual design, and fine art into cohesive, impactful experiences. I am open to collaborations where precision, creativity, and user‑centric solutions are valued.
+### 💫 About Me
+I am a **Full-Stack Mobile & Web Developer** with a passion for building scalable applications and seamless user experiences. With a background in **Fine Arts**, I bridge the gap between robust engineering and compelling visual design.
 
-* 🌍  I'm based in Afghanistan
-* ✉️  You can contact me at [sohrabmalikzada2003@gmail.com](mailto:sohrabmalikzada2003@gmail.com)
-* 🚀  I'm currently working on [Dashboard](http://github.com/Sohrab-Malikzada/Template.git)
-* 🧠  I'm currently learning AI Engineering
-* 👥  I'm looking to collaborate on Any kind of project that values creativity, technical precision, and user‑centric solutions. Whether it’s building responsive web applications, designing modular component libraries, creating design systems, or working on branding and digital art, I’m excited to contribute. I also welcome collaborations in artistic projects such as mural campaigns, oil painting, watercolor, and other visual storytelling initiatives that blend technology and art.
-* 💬  Ask me about For me, art and programming are two sides of the same coin. I see every user interface as a canvas and every line of code as a brushstroke. When I’m not designing or coding, I’m usually experimenting with new artistic styles or learning emerging technologies. Creativity flows through everything I do, and I always strive to build something that is both beautiful and functional.
+- 🌍 Based in **Afghanistan**
+- 🚀 Currently working on **[Modern Dashboard Systems](http://github.com/Sohrab-Malikzada/Template.git)**
+- 🧠 Learning **AI Engineering** to solve real-world challenges
+- 🤝 Open for collaboration on **Creative Tech Projects** & **Visual Storytelling**
+- ✉️ Contact me: [sohrabmalikzada2003@gmail.com](mailto:sohrabmalikzada2003@gmail.com)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Development</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,flutter,py,cpp,linux" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Design</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Fine Arts</strong><br /><br />
+      🎨 Oil Painting <br />
+      🖌️ Watercolor <br />
+      ✏️ Pencil Sketching <br />
+      🏛️ Mural Art
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab-Malikzada&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/sohrab-malikzada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://behance.net/sohrabmalikzada"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://x.com/MalikzadaS70003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/31644514/sohrab-malikzada"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Sohrab-Malikzada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MalikzadaS70003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@sohrabmalikzada2003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/sohrab-malikzada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/sohrabmalikzada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=61554120204731" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.stackoverflow.com/users/31644514/sohrab-malikzada?tab=profile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-<a href="https://www.github.com/Sohrab-Malikzada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sohrab-Malikzada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/MalikzadaS70003" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MalikzadaS70003?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msharratt1401/msharratt1401/master/ash_pika.gif" width="100px">
+</p>
