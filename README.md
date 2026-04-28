@@ -17,7 +17,6 @@
 I am a **Full-Stack Mobile & Web Developer** with a passion for building scalable applications and seamless user experiences. With a background in **Fine Arts**, I bridge the gap between robust engineering and compelling visual design.
 
 - 🌍 Based in **Afghanistan**
-- 🚀 Currently working on **[Modern Dashboard Systems](http://github.com/Sohrab-Malikzada/Template.git)**
 - 🧠 Learning **AI Engineering** to solve real-world challenges
 - 🤝 Open for collaboration on **Creative Tech Projects** & **Visual Storytelling**
 - ✉️ Contact me: [sohrabmalikzada2003@gmail.com](mailto:sohrabmalikzada2003@gmail.com)
@@ -30,7 +29,7 @@ I am a **Full-Stack Mobile & Web Developer** with a passion for building scalabl
   <tr>
     <td align="center" width="33%">
       <strong>Development</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,flutter,py,cpp,linux" />
+      <img src="https://skillicons.dev/icons?i=flutter,js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,cpp" />
     </td>
     <td align="center" width="33%">
       <strong>Design</strong><br /><br />
