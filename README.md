@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sohrab%20Malikzada](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full‑Stack%20Developer)" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full‑Stack%20Developer" width="100%" />
 
 # 👨‍💻 Sohrab Malikzada
 
