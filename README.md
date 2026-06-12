@@ -99,7 +99,7 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
   <tr>
     <td align="center" width="100%">
       <strong>Development</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=flutter,js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,php,sql,tailwint,html,css" />
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,py,php,tailwind,html,css" />
     </td>
   </tr>
   <tr>
