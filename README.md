@@ -109,13 +109,13 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
     </td>
   </tr>
   <tr>
-  <td align="center" width="100%">
-    <strong>Fine Arts</strong><br /><br />
-    <img src="https://img.icons8.com/color/48/paint-palette.png" title="Oil Painting" />
-    <img src="https://img.icons8.com/color/48/watercolor.png" title="Watercolor" />
-    <img src="https://img.icons8.com/color/48/pencil.png" title="Pencil Sketching" />
-    <img src="https://img.icons8.com/color/48/museum.png" title="Mural Art" />
-  </td>
+    <td align="center" width="100%">
+      <strong>Fine Arts</strong><br /><br />
+      🎨 Oil Painting <br />
+      🖌️ Watercolor <br />
+      ✏️ Pencil Sketching <br />
+      🏛️ Mural Art
+    </td>
   </tr>
 </table>
 
