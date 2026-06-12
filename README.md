@@ -111,9 +111,9 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
   <tr>
     <td align="center" width="100%">
       <strong>Fine Arts</strong><br /><br />
-      🎨 Oil Painting <br />
-      🖌️ Watercolor <br />
-      ✏️ Pencil Sketching <br />
+      🎨 Oil Painting 
+      🖌️ Watercolor 
+      ✏️ Pencil Sketching 
       🏛️ Mural Art
     </td>
   </tr>
