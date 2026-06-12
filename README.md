@@ -14,7 +14,7 @@
 </div>
 
 ### 💫 About Me
-I am a **Full-Stack Mobile & Web Developer** with a passion for building scalable applications and seamless user experiences. With a background in **Fine Arts**, I bridge the gap between robust engineering and compelling visual design.
+I am a **Full-Stack Web & Mobile Application Developer** with 2 years experience,  Graphic Designer, and professional Painter with experience in diverse projects. My unique mix of technical expertise, creative design, and artistic vision allows me to deliver solutions that are reliable, innovative, and visually compelling. I also bring experience as an AI Intern, adding future-focused innovation to every project."
 
 - 🌍 Based in **Afghanistan**
 - 🧠 Learning **AI Engineering** to solve real-world challenges
@@ -31,6 +31,7 @@ I am a **Full-Stack Mobile & Web Developer** with a passion for building scalabl
       <strong>Development</strong><br /><br />
       <img src="https://skillicons.dev/icons?i=flutter,js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,cpp" />
     </td>
+    </tr>
     <td align="center" width="33%">
       <strong>Design</strong><br /><br />
       <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
