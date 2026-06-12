@@ -23,10 +23,15 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
 
 
 ## 🛠️ Skills & Technologies
-- **Frontend Development**: [HTML](ca://s?q=HTML_in_web_development), [CSS](ca://s?q=CSS_in_web_development), [JavaScript](ca://s?q=JavaScript_in_web_development), [Bootstrap](ca://s?q=Bootstrap_framework), [jQuery](ca://s?q=jQuery_library), [Tailwind CSS](ca://s?q=Tailwind_CSS_framework), [React.js](ca://s?q=React.js_framework)  
-- **Backend Development**: [PHP](ca://s?q=PHP_backend_language), [MySQL](ca://s?q=MySQL_database), [Laravel](ca://s?q=Laravel_framework), [SQL](ca://s?q=SQL_database_language), [Firebase](ca://s?q=Firebase_platform), [Node.js](ca://s?q=Node.js_runtime), [Express.js](ca://s?q=Express.js_framework)  
-- **Mobile Development**: [Flutter](ca://s?q=Flutter_framework), [Dart](ca://s?q=Dart_programming_language)  
-- **Full-Stack Expertise**: [MERN Stack](ca://s?q=MERN_Stack_explained) (MongoDB, Express.js, React.js, Node.js)  
+
+- **Frontend Development**: [HTML](ca://s?q=HTML_in_web_development), [CSS](ca://s?q=CSS_in_web_development), [JavaScript](ca://s?q=JavaScript_in_web_development), [Bootstrap](ca://s?q=Bootstrap_framework), [jQuery](ca://s?q=jQuery_library), [Tailwind CSS](ca://s?q=Tailwind_CSS_framework), [React.js](ca://s?q=React.js_framework)
+  
+- **Backend Development**: [Node.js](ca://s?q=Node.js_runtime), [Express.js](ca://s?q=Express.js_framework), [MongoDB](ca://s?q=MongoDB_database), [Python](ca://s?q=Python_programming_language), [Next.js](ca://s?q=Next.js_framework), [PHP](ca://s?q=PHP_backend_language), [MySQL](ca://s?q=MySQL_database), [Laravel](ca://s?q=Laravel_framework), [SQL](ca://s?q=SQL_database_language), [Firebase](ca://s?q=Firebase_platform)
+
+- **Mobile Development**: [Flutter](ca://s?q=Flutter_framework), [Dart](ca://s?q=Dart_programming_language), [React Native](ca://s?q=React_Native_framework)
+
+- **Full-Stack Expertise**: [MERN Stack](ca://s?q=MERN_Stack_explained) (MongoDB, Express.js, React.js, Node.js)
+  
 - **Version Control & Collaboration**: [Git](ca://s?q=Git_version_control), [GitHub](ca://s?q=GitHub_platform)  
 
 
