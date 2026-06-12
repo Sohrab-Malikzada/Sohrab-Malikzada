@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sohrab%20Malikzada" width="100%" />
 
-  <h3>👨‍💻 Full-Stack Developer | 🎨 Graphic Designer | 🖌️ Professional Painter</h3>
+  <h3>Full-Stack Developer | MERN Stack & Flutter Developer | Building Scalable Web & Mobile Apps</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sohrab-Malikzada&label=Profile%20Views&color=0891b2&style=flat-square" alt="Views" />
