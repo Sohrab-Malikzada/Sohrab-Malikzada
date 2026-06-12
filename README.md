@@ -80,7 +80,7 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
 
 ## 📫 Connect With Me
 - GitHub: [Sohrab-Malikzada](https://github.com/Sohrab-Malikzada)  
-- LinkedIn: [Professional LinkedIn Profile](ca://s?q=Create_professional_LinkedIn_profile)  
+- LinkedIn: [Professional LinkedIn Profile](linkedin.com/in/sohrab-malikzada)  
 
 ⭐️ If you find my projects interesting, feel free to **Star** them or collaborate with me!
 
