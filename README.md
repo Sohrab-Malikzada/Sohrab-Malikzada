@@ -36,53 +36,6 @@ I enjoy solving complex problems, collaborating on large projects, and deliverin
 
 
 
-## 📂 Projects
-
-### PHP & MySQL
-- **CMS-System-php** – A complete CMS built with PHP & MySQL.  
-- **crud-system-php** – Fully functional CRUD application with PHP & MySQL.  
-- **auth-system-php** – Secure authentication system with PHP.  
-
-### Dart & Flutter
-- **rasat** – Mobile app built with Dart & Flutter.  
-- **zenith_introvert_Game** – Creative game project developed with Dart.  
-- **Flutter-Resturant-App** – Restaurant app built with Flutter.  
-- **E-commerce-catalyst** – E-commerce app cloned and customized with Dart.  
-
-### TypeScript
-- **Resat_Platform** – Scalable platform built with TypeScript.  
-- **RahBalad_SimpleApp** – Organization-focused problem-solving app.  
-- **Rupani-Foundation-Mobile-App** – Mobile app for organizational needs.  
-- **afghan-atlas-horizon** – TypeScript-based project.  
-- **Afghan-Atlas** – Repository hosted on Replit.  
-- **fullcart-store-E-commerce** – Complete e-commerce store.  
-- **top-in-town-technology** – Technology website project.  
-- **rooz-now-chatbot-companion** – Chatbot companion app.  
-- **Airport-Control-Management-System** – Airport management system.  
-- **library-managment** – Full-featured library management system.  
-- **My-portfolio** – Personal portfolio website.  
-- **Persona-Chatbot** – Chatbot application.  
-- **Portfolio** – Another portfolio project.  
-- **software-as-a-service-platform** – SaaS platform.  
-- **learn-well-platform** – Learning platform.  
-- **weather-pro** – Weather application.  
-- **Store-Managment-Dashbord-Platform** – Dashboard for store management.  
-- **admin-hub-suite-dashboard** – Admin dashboard suite.  
-- **Top-in-Town-Technology-** – Website for a technology course in Kabul.  
-
-### JavaScript / MERN
-- **Store-Managment_Dashborad** – Store management dashboard website.  
-- **E-commerce-Filter-Product** – Product filtering system for e-commerce.  
-
-
-
-## 🌟 Work Highlights
-- Built **large-scale CMS and CRUD systems** with PHP & MySQL.  
-- Developed **cross-platform mobile apps** using Flutter & Dart.  
-- Designed and deployed **enterprise dashboards** with MERN Stack.  
-- Created **e-commerce platforms** with advanced filtering and management features.  
-- Delivered **organization-focused apps** solving real-world problems.  
-
 
 
 ## 📫 Connect With Me
