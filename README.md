@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full‑Stack%20Developer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aspiring%20Full-Stack%20Developer&section=header&reversal=false&desc=Building%20Full-Stack%20Web%20Applications%20with%20React.js,%20Node.js,%20Express.js,%20MongoDB&fontAlignY=45&fontSize=55&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aspiring%20Full-Stack%20Developer&section=header&reversal=false&desc=Building%20Full-Stack%20Web%20Applications%20with%20React.js,%20Node.js,%20Express.js,%20MongoDB&fontAlignY=45&fontSize=55&fontAlign=50" width="100%" />
 
 # 👨‍💻 Sohrab Malikzada
 
@@ -57,13 +57,13 @@ I am a Software Engineering student focused on **Full-Stack Web Development**, w
   <tr>
     <td align="center" width="100%">
       <strong>Development</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=flutter,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,py,php,tailwind,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,php,laravel,flutter" />
     </td>
   </tr>
   <tr>
     <td align="center" width="100%">
       <strong>Design</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
+      <img src="https://skillicons.dev/icons?i=figma" />
     </td>
   </tr>
 </table>
