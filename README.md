@@ -1,6 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aspiring%20Full-Stack%20Developer&section=header&reversal=false&desc=Building%20Full-Stack%20Web%20Applications%20with%20React.js,%20Node.js,%20Express.js,%20MongoDB&fontAlignY=45&fontSize=55&fontAlign=50" width="100%" />
 
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <strong>MERN Stack Development</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+    </td>
+  </tr>
+</table>
+
 # 👨‍💻 Sohrab Malikzada
 
   <h3>Building Full-Stack Web Applications with React.js, Node.js, Express.js & MongoDB</h3>
