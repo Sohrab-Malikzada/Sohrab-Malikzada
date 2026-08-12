@@ -57,18 +57,7 @@ I am a Software Engineering student focused on **Full-Stack Web Development**, w
   <tr>
     <td align="center" width="100%">
       <strong>Development</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,php,laravel,flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Learning</strong><br /><br />
-    <img src="https://skillicons.dev/icons?i=nextjs,reactnative,py" />    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Design</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=figma" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,nextjs,py,mysql,php,laravel,flutter,figma" />
     </td>
   </tr>
 </table>
