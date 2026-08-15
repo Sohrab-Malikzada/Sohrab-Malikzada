@@ -714,9 +714,9 @@ I am particularly interested in opportunities involving:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://sohrabmalikzada.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://sohrabmalikzada.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-0891B2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
   &nbsp;
   <a href="https://vercel.com/sohrabmalikzada2003-8136s-projects">
     <img src="https://img.shields.io/badge/Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Projects"/>
