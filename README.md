@@ -195,7 +195,7 @@ A database-driven art gallery website developed for managing and presenting artw
 </td>
 
 <td align="center" width="220">
-  <img src="https://skillicons.dev/icons?i=lighthouse" width="60"/><br/><br/>
+  <img src="https://img.icons8.com/fluency/96/speed.png" width="60"/><br/><br/>
   <strong>Performance Engineering</strong><br/>
   <sub>Optimization & Web Performance</sub>
 </td>
@@ -211,7 +211,7 @@ A database-driven art gallery website developed for managing and presenting artw
 </td>
 
 <td align="center" width="220">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="60"/><br/><br/>
+  <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/><br/>
   <strong>Problem Solving</strong><br/>
   <sub>Algorithms & Engineering Thinking</sub>
 </td>
