@@ -84,7 +84,15 @@ I enjoy turning ideas into functional software, solving technical problems, lear
 ⚙️ Backend Development
 <table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/> <strong>Node.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=express" width="50"/><br/> <strong>Express.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=php" width="50"/><br/> <strong>PHP</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/> <strong>Laravel</strong> </td> </tr> </table>
 🗄️ Databases & Backend Services
-<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/> <strong>MongoDB</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/> <strong>MySQL</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/> <strong>SQL</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/> <strong>Firebase</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/> <strong>Supabase</strong> </td> </tr> </table>
+<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/> <strong>MongoDB</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/> <strong>MySQL</strong> </td><td align="center" width="140">
+<strong>SQL</strong><br/>
+<sub>Query Language</sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=oracle" width="50"/><br/>
+<strong>Oracle</strong>
+</td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/> <strong>Firebase</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/> <strong>Supabase</strong> </td> </tr> </table>
 📱 Mobile Development
 <table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React Native</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/> <strong>Flutter</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/> <strong>Dart</strong> </td> </tr> </table>
 🧰 Tools & Development Workflow
