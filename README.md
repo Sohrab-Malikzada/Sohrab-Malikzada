@@ -744,11 +744,11 @@ I am particularly interested in opportunities involving:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0891b2" width="70%"/>
 
-<br/><br/>
+<br/>
 
-<سفقخدل>
-<strong>Open to opportunities, collaboration, and meaningful software projects.</strong>
-</سفقخدل>
+<p align="center">
+  <em>Open to opportunities, collaboration, and meaningful software projects.</em>
+</p>
 
 </div>
 
