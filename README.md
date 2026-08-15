@@ -746,9 +746,9 @@ I am particularly interested in opportunities involving:
 
 <br/><br/>
 
-<sub>
+<سفقخدل>
 <strong>Open to opportunities, collaboration, and meaningful software projects.</strong>
-</sub>
+</سفقخدل>
 
 </div>
 
@@ -756,12 +756,24 @@ I am particularly interested in opportunities involving:
 
 <div align="center">
 
-<h2>⭐ Thanks for visiting my profile!</h2>
+## ⭐ Thanks for visiting my profile!
 
-<strong>Building · Learning · Improving · Shipping</strong>
+### `Learn · Build · Improve · Ship`
 
-<br /><br />
+<br/>
 
-<em>Turning ideas into practical software.</em>
+<sub>
+<strong>Aspiring Full-Stack Developer</strong> · Software Engineering Student
+</sub>
+
+<br/><br/>
+
+<em>
+Turning ideas into practical, meaningful software.
+</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%" />
 
 </div>
