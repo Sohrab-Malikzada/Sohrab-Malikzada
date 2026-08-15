@@ -338,22 +338,6 @@ I enjoy transforming ideas into functional software, solving technical problems,
 
 # 💼 Featured Projects
 
-## 🛒 FullCart — E-Commerce Platform
-
-A modern e-commerce web application focused on creating a responsive shopping experience with a scalable frontend architecture.
-
-**Technology Stack**
-
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Supabase`
-
-🌐 **Live Demo:**  
-https://fullcart-store-e-commerce.vercel.app/
-
-🔗 **Repository:**  
-https://github.com/Sohrab-Malikzada/fullcart-store-E-commerce
-
----
-
 ## 📊 Store Management Dashboard
 
 A responsive store management dashboard designed for managing products, inventory, sales, and essential store operations through an intuitive administrative interface.
@@ -383,6 +367,24 @@ https://github.com/Sohrab-Malikzada/Art-Gallery
 
 ---
 
+
+## 🛒 FullCart — E-Commerce Platform
+
+A modern e-commerce web application focused on creating a responsive shopping experience with a scalable frontend architecture.
+
+**Technology Stack**
+
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Supabase`
+
+🌐 **Live Demo:**  
+https://fullcart-store-e-commerce.vercel.app/
+
+🔗 **Repository:**  
+https://github.com/Sohrab-Malikzada/fullcart-store-E-commerce
+
+---
+
+  
 # 📚 Currently Learning
 
 <p align="center">
@@ -683,16 +685,6 @@ solutions.
 
 ---
 
-# 🤝 Collaboration
-
-I am interested in collaborating on **real-world web applications, full-stack projects, creative technology projects, and software engineering initiatives** where I can contribute, learn, and grow as a developer.
-
-I am particularly interested in opportunities involving:
-
-`Full-Stack Development` · `MERN Stack` · `Frontend Engineering` · `Backend Development` · `REST APIs` · `Software Architecture`
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -711,6 +703,17 @@ I am particularly interested in opportunities involving:
 
 </div>
 
+
+
+# 🤝 Collaboration
+
+I am interested in collaborating on **real-world web applications, full-stack projects, creative technology projects, and software engineering initiatives** where I can contribute, learn, and grow as a developer.
+
+I am particularly interested in opportunities involving:
+
+`Full-Stack Development` · `MERN Stack` · `Frontend Engineering` · `Backend Development` · `REST APIs` · `Software Architecture`
+
+---
 
 
 # 🌐 Connect With Me
