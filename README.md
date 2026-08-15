@@ -763,7 +763,7 @@ I am particularly interested in opportunities involving:
 <br/>
 
 <sub>
-<strong>Aspiring Full-Stack Developer</strong> · Software Engineering Student
+<strong> Aspiring Full-Stack Developer · Software Engineering Student </strong>
 </sub>
 
 <br/><br/>
