@@ -22,9 +22,7 @@ Building modern, scalable, and user-focused web applications with a strong focus
       <br />
       <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" width="360" />
       <br /><br />
-      <sub>
-        <strong>React.js</strong> · <strong>Node.js</strong> · <strong>Express.js</strong> · <strong>MongoDB</strong>
-      </sub>
+      <strong>React.js</strong> · <strong>Node.js</strong> · <strong>Express.js</strong> · <strong>MongoDB</strong>
     </td>
   </tr>
 </table>
