@@ -742,9 +742,11 @@ I am particularly interested in opportunities involving:
 </p>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0891b2" width="70%"/>
+<sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient" width="70%"/>
+</sub>
 
-<br/> <br/>
+<br/> 
 
 <p align="center">
   <em>Open to opportunities, collaboration, and meaningful software projects.</em>
