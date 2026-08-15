@@ -81,26 +81,16 @@ I enjoy turning ideas into functional software, solving technical problems, lear
 </tr>
 </table>
 
-### 🎨 Frontend Development
-
-HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS · Bootstrap · jQuery · Next.js
-
-### ⚙️ Backend Development
-
-Node.js · Express.js · PHP · Laravel
-
-### 🗄️ Databases & Backend Services
-
-MongoDB · MySQL · SQL · Firebase · Supabase
-
-### 📱 Mobile Development
-
-React Native · Flutter · Dart
-
-### 🧰 Tools & Development Workflow
-
-Git · GitHub · Vite · REST APIs · Figma
-
+🎨 Frontend Development
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=html" width="50"/><br/> <strong>HTML5</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=css" width="50"/><br/> <strong>CSS3</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=js" width="50"/><br/> <strong>JavaScript</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/> <strong>Tailwind CSS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/> <strong>Bootstrap</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=jquery" width="50"/><br/> <strong>jQuery</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/> <strong>Next.js</strong> </td> </tr> </table>
+⚙️ Backend Development
+<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/> <strong>Node.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=express" width="50"/><br/> <strong>Express.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=php" width="50"/><br/> <strong>PHP</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/> <strong>Laravel</strong> </td> </tr> </table>
+🗄️ Databases & Backend Services
+<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/> <strong>MongoDB</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/> <strong>MySQL</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/> <strong>SQL</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/> <strong>Firebase</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/> <strong>Supabase</strong> </td> </tr> </table>
+📱 Mobile Development
+<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React Native</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/> <strong>Flutter</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/> <strong>Dart</strong> </td> </tr> </table>
+🧰 Tools & Development Workflow
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="50"/><br/> <strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github" width="50"/><br/> <strong>GitHub</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=vite" width="50"/><br/> <strong>Vite</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/> <strong>Figma</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/> <strong>REST APIs</strong> </td> </tr> </table>
 ---
 
 ## 🏗️ What I Build
