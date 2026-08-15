@@ -711,25 +711,55 @@ I am particularly interested in opportunities involving:
 ---
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://sohrabmalikzada.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891b2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<table>
+<tr>
 
-<a href="https://linkedin.com/in/sohrab-malikzada">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<td align="center" width="180">
+  <a href="https://sohrabmalikzada.vercel.app">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="42"/>
+    <br/><br/>
+    <strong>Portfolio</strong>
+  </a>
+  <br/>
+  <sub>Explore my work</sub>
+</td>
 
-<a href="mailto:sohrabmalikzada2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<td align="center" width="180">
+  <a href="https://vercel.com/sohrabmalikzada2003-8136s-projects">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="42"/>
+    <br/><br/>
+    <strong>Vercel</strong>
+  </a>
+  <br/>
+  <sub>View live deployments</sub>
+</td>
 
-<a href="https://github.com/Sohrab-Malikzada">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<td align="center" width="180">
+  <a href="https://linkedin.com/in/sohrab-malikzada">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
+    <br/><br/>
+    <strong>LinkedIn</strong>
+  </a>
+  <br/>
+  <sub>Professional profile</sub>
+</td>
+
+<td align="center" width="180">
+  <a href="mailto:sohrabmalikzada2003@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
+    <br/><br/>
+    <strong>Email</strong>
+  </a>
+  <br/>
+  <sub>Get in touch</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
