@@ -601,33 +601,101 @@ testing, and production workflows.
 
 ---
 
-# 🎯 Professional Interests
+## 🎯 Professional Interests
+
+<p align="center">
+  <strong>
+    Areas of engineering I am actively interested in exploring,
+    building, and growing within.
+  </strong>
+</p>
+
+<br />
 
 <table align="center">
 <tr>
 
-<td align="center" width="220">
-<h3>🌐</h3>
-<strong>Full-Stack Development</strong>
+<td align="center" width="250">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" width="90"/>
+
+<br /><br />
+
+<h3>🌐 Full-Stack Development</h3>
+
+<sub>
+Building complete web applications
+across frontend, backend, APIs,
+and databases.
+</sub>
+
 </td>
 
-<td align="center" width="220">
-<h3>⚡</h3>
-<strong>MERN Engineering</strong>
+<td align="center" width="250">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" width="150"/>
+
+<br /><br />
+
+<h3>⚡ MERN Engineering</h3>
+
+<sub>
+Developing modern applications
+with React, Node.js, Express,
+and MongoDB.
+</sub>
+
 </td>
 
-<td align="center" width="220">
-<h3>🏗️</h3>
-<strong>Software Architecture</strong>
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+<img src="https://img.icons8.com/fluency/96/blueprint.png" width="75"/>
+
+<br /><br />
+
+<h3>🏗️ Software Architecture</h3>
+
+<sub>
+Designing scalable, maintainable,
+and well-structured software
+systems.
+</sub>
+
 </td>
 
-<td align="center" width="220">
-<h3>🤖</h3>
-<strong>Practical AI</strong>
+<td align="center" width="250">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="75"/>
+
+<br /><br />
+
+<h3>🤖 Practical AI</h3>
+
+<sub>
+Exploring practical applications
+of AI and intelligent software
+solutions.
+</sub>
+
 </td>
 
 </tr>
 </table>
+
+<br />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MERN-Engineering-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software-Architecture-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Practical-AI-0891b2?style=for-the-badge" />
+
+</p>
 
 ---
 
