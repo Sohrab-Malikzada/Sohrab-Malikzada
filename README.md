@@ -148,13 +148,82 @@ A database-driven art gallery website developed for managing and presenting artw
 
 ## 📚 Currently Learning
 
-- Next.js
-- React Native
-- Advanced JavaScript
-- Modern frontend architecture
-- Backend architecture and API design
-- Performance optimization
-- AI Engineering fundamentals
+<p align="center">
+  <em>
+    Continuously expanding my engineering skills through hands-on projects,
+    experimentation, and real-world development.
+  </em>
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br/><br/>
+<strong>Next.js</strong><br/>
+<sub>Full-Stack React Development</sub>
+</td>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=react" width="60"/><br/><br/>
+<strong>React Native</strong><br/>
+<sub>Cross-Platform Mobile Apps</sub>
+</td>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=js" width="60"/><br/><br/>
+<strong>Advanced JavaScript</strong><br/>
+<sub>Runtime · Async · Performance</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=react,nodejs" width="85"/><br/><br/>
+<strong>Application Architecture</strong><br/>
+<sub>Frontend & Backend Design</sub>
+</td>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=nodejs,express" width="85"/><br/><br/>
+<strong>API Architecture</strong><br/>
+<sub>Scalable Backend Services</sub>
+</td>
+
+<td align="center" width="220">
+⚡<br/><br/>
+<strong>Performance Engineering</strong><br/>
+<sub>Optimization & Web Performance</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br/><br/>
+<strong>AI Engineering</strong><br/>
+<sub>Fundamentals & Practical Applications</sub>
+</td>
+
+<td align="center" width="220">
+🧠<br/><br/>
+<strong>Problem Solving</strong><br/>
+<sub>Algorithms & Engineering Thinking</sub>
+</td>
+
+<td align="center" width="220">
+🚀<br/><br/>
+<strong>Continuous Growth</strong><br/>
+<sub>Learning · Building · Improving</sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
