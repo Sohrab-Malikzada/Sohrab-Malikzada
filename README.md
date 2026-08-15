@@ -195,9 +195,9 @@ A database-driven art gallery website developed for managing and presenting artw
 </td>
 
 <td align="center" width="220">
-⚡<br/><br/>
-<strong>Performance Engineering</strong><br/>
-<sub>Optimization & Web Performance</sub>
+  <img src="https://skillicons.dev/icons?i=lighthouse" width="60"/><br/><br/>
+  <strong>Performance Engineering</strong><br/>
+  <sub>Optimization & Web Performance</sub>
 </td>
 
 </tr>
@@ -206,20 +206,20 @@ A database-driven art gallery website developed for managing and presenting artw
 
 <td align="center" width="220">
 <img src="https://skillicons.dev/icons?i=python" width="60"/><br/><br/>
-<strong>AI Engineering</strong><br/>
+<strong>Python</strong><br/>
 <sub>Fundamentals & Practical Applications</sub>
 </td>
 
 <td align="center" width="220">
-🧠<br/><br/>
-<strong>Problem Solving</strong><br/>
-<sub>Algorithms & Engineering Thinking</sub>
+  <img src="https://skillicons.dev/icons?i=leetcode" width="60"/><br/><br/>
+  <strong>Problem Solving</strong><br/>
+  <sub>Algorithms & Engineering Thinking</sub>
 </td>
 
 <td align="center" width="220">
-🚀<br/><br/>
-<strong>Continuous Growth</strong><br/>
-<sub>Learning · Building · Improving</sub>
+  <img src="https://skillicons.dev/icons?i=github" width="60"/><br/><br/>
+  <strong>Continuous Growth</strong><br/>
+  <sub>Learning · Building · Improving</sub>
 </td>
 
 </tr>
