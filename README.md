@@ -4,158 +4,395 @@
 
 <br />
 
-# 👨‍💻 Sohrab Malikzada
+<h1>👨‍💻 Sohrab Malikzada</h1>
 
-### Full-Stack Web Developer · Software Engineering Student
+<h3>Full-Stack Web Developer · Software Engineering Student</h3>
 
 <p>
-Building modern, scalable, and user-focused web applications with a strong focus on the <strong>MERN Stack</strong>.
+Building modern, responsive, and user-focused web applications with a strong focus on
+<strong>MERN Stack development</strong>.
 </p>
 
 <br />
 
+<!-- CORE SPECIALIZATION -->
+
 <table align="center">
-  <tr>
-    <td align="center" width="100%">
-      <h2>⚡ Core Specialization</h2>
-      <h3>MERN Stack Development</h3>
-      <br />
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" width="360" />
-      <br /><br />
-      <strong>React.js</strong> · <strong>Node.js</strong> · <strong>Express.js</strong> · <strong>MongoDB</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+
+<h2>⚡ Core Specialization</h2>
+
+<h3>MERN Stack Development</h3>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" width="420"/>
+
+<br /><br />
+
+<strong>React.js</strong>
+&nbsp;·&nbsp;
+<strong>Node.js</strong>
+&nbsp;·&nbsp;
+<strong>Express.js</strong>
+&nbsp;·&nbsp;
+<strong>MongoDB</strong>
+
+</td>
+</tr>
 </table>
 
 <br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Sohrab-Malikzada&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sohrab-Malikzada?label=Followers&style=flat-square&color=0891b2" alt="GitHub Followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Sohrab-Malikzada&label=Profile%20Views&color=0891b2&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Sohrab-Malikzada?label=Followers&style=flat-square&color=0891b2" />
 
-<p>
-  <em>"Merging the precision of code with the soul of art. Every interface is a canvas, every line of code a brushstroke."</em>
-</p>
+<br /><br />
+
+<em>
+"Merging the precision of code with the soul of art.
+Every interface is a canvas, every line of code a brushstroke."
+</em>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I am a **Software Engineering student and Full-Stack Web Developer** focused on building practical, responsive, and user-centered web applications.
 
-My core specialization is the **MERN Stack**, with hands-on experience building frontend interfaces, REST APIs, database-driven applications, authentication flows, CRUD systems, dashboards, and full-stack web projects.
+My primary specialization is the **MERN Stack**, with hands-on experience developing frontend interfaces, REST APIs, database-driven applications, authentication flows, CRUD systems, dashboards, e-commerce platforms, and management systems.
 
-I work primarily with **React.js, JavaScript, Node.js, Express.js, and MongoDB**, while continuously expanding my knowledge of **Next.js and React Native**.
+I work primarily with **React.js, JavaScript, Node.js, Express.js, and MongoDB**, while continuously expanding my knowledge of **Next.js, React Native, software architecture, backend engineering, and web performance**.
 
-I enjoy turning ideas into functional software, solving technical problems, learning modern development practices, and building projects that demonstrate real-world engineering skills.
+I enjoy transforming ideas into functional software, solving technical problems, improving code quality, and building projects that demonstrate practical software engineering skills.
 
 ---
 
-## 🧠 Core Technical Expertise
+# 🧠 Core Technical Expertise
 
-### ⚡ MERN Stack
+## ⚡ MERN Stack
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=react" width="70"/><br/><br/>
 <strong>React.js</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=nodejs" width="70"/><br/><br/>
 <strong>Node.js</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=express" width="60"/><br/>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=express" width="70"/><br/><br/>
 <strong>Express.js</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br/>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br/><br/>
 <strong>MongoDB</strong>
 </td>
+
 </tr>
 </table>
 
-🎨 Frontend Development
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=html" width="50"/><br/> <strong>HTML5</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=css" width="50"/><br/> <strong>CSS3</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=js" width="50"/><br/> <strong>JavaScript</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/> <strong>Tailwind CSS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/> <strong>Bootstrap</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=jquery" width="50"/><br/> <strong>jQuery</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/> <strong>Next.js</strong> </td> </tr> </table>
-⚙️ Backend Development
-<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/> <strong>Node.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=express" width="50"/><br/> <strong>Express.js</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=php" width="50"/><br/> <strong>PHP</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/> <strong>Laravel</strong> </td> </tr> </table>
-🗄️ Databases & Backend Services
-<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/> <strong>MongoDB</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/> <strong>MySQL</strong> </td><td align="center" width="140">
-<strong>SQL</strong><br/>
-<sub>Query Language</sub>
+---
+
+## 🎨 Frontend Development
+
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br/>
+<strong>HTML5</strong>
 </td>
 
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/><br/>
-  <strong>Oracle</strong>
-</td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/> <strong>Firebase</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/> <strong>Supabase</strong> </td> </tr> </table>
-📱 Mobile Development
-<table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React Native</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/> <strong>Flutter</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/> <strong>Dart</strong> </td> </tr> </table>
-🧰 Tools & Development Workflow
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="50"/><br/> <strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github" width="50"/><br/> <strong>GitHub</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=vite" width="50"/><br/> <strong>Vite</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/> <strong>Figma</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/> <strong>REST APIs</strong> </td> </tr> </table>
----
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br/>
+<strong>CSS3</strong>
+</td>
 
-## 🏗️ What I Build
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
+<strong>JavaScript</strong>
+</td>
 
-- Full-stack web applications
-- REST API-driven applications
-- E-commerce platforms
-- Management dashboards
-- Inventory management systems
-- Learning management systems
-- CRUD-based applications
-- Responsive business websites
-- Database-driven web applications
-- Mobile application interfaces
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br/>
+<strong>React.js</strong>
+</td>
 
----
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>
+<strong>Tailwind CSS</strong>
+</td>
 
-## 💼 Featured Projects
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br/>
+<strong>Bootstrap</strong>
+</td>
 
-### 🛒 FullCart — E-Commerce Platform
+</tr>
 
-Modern e-commerce application built with React, TypeScript, Vite, Tailwind CSS, shadcn/ui, and Supabase.
+<tr>
 
-**Tech:** React · TypeScript · Vite · Tailwind CSS · Supabase
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="55"/><br/>
+<strong>jQuery</strong>
+</td>
 
-🌐 **Live:** https://fullcart-store-e-commerce.vercel.app/
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br/>
+<strong>Next.js</strong>
+</td>
 
----
-
-### 📊 Store Management Dashboard
-
-Responsive management dashboard focused on products, inventory, and store operations.
-
-**Tech:** React · JavaScript · Tailwind CSS · Vite
-
-🌐 **Live:** https://template-fawn-eight.vercel.app/
+</tr>
+</table>
 
 ---
 
-### 🎨 Art Gallery Management System
+## ⚙️ Backend Development
 
-A database-driven art gallery website developed for managing and presenting artwork.
+<table align="center">
+<tr>
 
-**Tech:** PHP · MySQL · JavaScript · HTML · CSS · Bootstrap
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
+<strong>Node.js</strong>
+</td>
 
-🔗 **Repository:** https://github.com/Sohrab-Malikzada/Art-Gallery
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br/>
+<strong>Express.js</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=php" width="55"/><br/>
+<strong>PHP</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=laravel" width="55"/><br/>
+<strong>Laravel</strong>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## 🗄️ Databases & Backend Services
+
+<table align="center">
+<tr>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/>
+<strong>MongoDB</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
+<strong>MySQL</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br/>
+<strong>SQL / PostgreSQL</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/><br/>
+<strong>Oracle</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br/>
+<strong>Firebase</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br/>
+<strong>Supabase</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📱 Mobile Development
+
+<table align="center">
+<tr>
+
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
+<strong>React Native</strong>
+</td>
+
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=flutter" width="60"/><br/>
+<strong>Flutter</strong>
+</td>
+
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=dart" width="60"/><br/>
+<strong>Dart</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧰 Tools & Development Workflow
+
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
+<strong>Git</strong>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
+<strong>GitHub</strong>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vite" width="55"/><br/>
+<strong>Vite</strong>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br/>
+<strong>Figma</strong>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br/>
+<strong>Postman</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏗️ What I Build
+
+<table align="center">
+<tr>
+
+<td align="center" width="250">
+<h3>🌐 Web Applications</h3>
+<p>Modern responsive and interactive web applications</p>
+</td>
+
+<td align="center" width="250">
+<h3>🛒 E-Commerce</h3>
+<p>Product, inventory and commerce platforms</p>
+</td>
+
+<td align="center" width="250">
+<h3>📊 Dashboards</h3>
+<p>Management and data-driven interfaces</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<h3>🔐 Authentication</h3>
+<p>Secure authentication and authorization flows</p>
+</td>
+
+<td align="center">
+<h3>⚙️ REST APIs</h3>
+<p>Backend services and API-driven applications</p>
+</td>
+
+<td align="center">
+<h3>🗄️ Database Systems</h3>
+<p>Database-driven applications and CRUD systems</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Featured Projects
+
+## 🛒 FullCart — E-Commerce Platform
+
+A modern e-commerce web application focused on creating a responsive shopping experience with a scalable frontend architecture.
+
+**Technology Stack**
+
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Supabase`
+
+🌐 **Live Demo:**  
+https://fullcart-store-e-commerce.vercel.app/
+
+🔗 **Repository:**  
+https://github.com/Sohrab-Malikzada/fullcart-store-E-commerce
+
+---
+
+## 📊 Store Management Dashboard
+
+A responsive store management dashboard designed for managing products, inventory, sales, and essential store operations through an intuitive administrative interface.
+
+**Technology Stack**
+
+`React` · `JavaScript` · `Tailwind CSS` · `Vite`
+
+🌐 **Live Demo:**  
+https://template-fawn-eight.vercel.app/
+
+🔗 **Repository:**  
+https://github.com/Sohrab-Malikzada/Store-Managment_Dashborad
+
+---
+
+## 🎨 Art Gallery Management System
+
+A database-driven web application developed for managing and presenting artwork through a structured gallery management system.
+
+**Technology Stack**
+
+`PHP` · `MySQL` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap`
+
+🔗 **Repository:**  
+https://github.com/Sohrab-Malikzada/Art-Gallery
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
-  <em>
-    Continuously expanding my engineering skills through hands-on projects,
-    experimentation, and real-world development.
-  </em>
+<em>
+Continuously expanding my engineering skills through hands-on projects,
+experimentation, and practical software development.
+</em>
 </p>
 
-<br/>
+<br />
 
 <table align="center">
 <tr>
@@ -195,9 +432,9 @@ A database-driven art gallery website developed for managing and presenting artw
 </td>
 
 <td align="center" width="220">
-  <img src="https://img.icons8.com/fluency/96/speed.png" width="60"/><br/><br/>
-  <strong>Performance Engineering</strong><br/>
-  <sub>Optimization & Web Performance</sub>
+<img src="https://img.icons8.com/fluency/96/speed.png" width="60"/><br/><br/>
+<strong>Performance Engineering</strong><br/>
+<sub>Optimization & Web Performance</sub>
 </td>
 
 </tr>
@@ -211,133 +448,140 @@ A database-driven art gallery website developed for managing and presenting artw
 </td>
 
 <td align="center" width="220">
-  <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/><br/>
-  <strong>Problem Solving</strong><br/>
-  <sub>Algorithms & Engineering Thinking</sub>
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/><br/>
+<strong>Problem Solving</strong><br/>
+<sub>Algorithms & Engineering Thinking</sub>
 </td>
 
 <td align="center" width="220">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/><br/><br/>
-  <strong>Continuous Growth</strong><br/>
-  <sub>Learning · Building · Improving</sub>
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br/><br/>
+<strong>Continuous Growth</strong><br/>
+<sub>Learning · Building · Improving</sub>
 </td>
 
 </tr>
 </table>
 
+---
 
-
-## 📈 Development Focus
+# 📈 Development Focus
 
 <p align="center">
-  <strong>Engineering for scalable, maintainable, and production-ready web applications.</strong>
+<strong>
+Engineering scalable, maintainable, reliable, and production-ready web applications.
+</strong>
 </p>
 
 <p align="center">
-  <sub>
-    My current focus is strengthening my Full-Stack Engineering skills through
-    architecture, clean code, system reliability, performance, and production workflows.
-  </sub>
+<sub>
+My current focus is strengthening my Full-Stack Engineering capabilities
+through architecture, clean code, API design, performance, security,
+testing, and production workflows.
+</sub>
 </p>
 
-<br>
+<br />
 
 <table align="center">
-  <tr>
+<tr>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/blueprint.png" width="52" alt="Architecture"/><br>
-      <strong>Software Architecture</strong><br>
-      <sub>Scalable & Maintainable Systems</sub>
-    </td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/96/blueprint.png" width="52"/><br/><br/>
+<strong>Software Architecture</strong><br/>
+<sub>Scalable & Maintainable Systems</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="52" alt="Clean Code"/><br>
-      <strong>Clean Code</strong><br>
-      <sub>Readable & Maintainable Codebases</sub>
-    </td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/96/code.png" width="52"/><br/><br/>
+<strong>Clean Code</strong><br/>
+<sub>Readable & Maintainable Codebases</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/api.png" width="52" alt="API Design"/><br>
-      <strong>API Design</strong><br>
-      <sub>RESTful & Reliable Services</sub>
-    </td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/96/api.png" width="52"/><br/><br/>
+<strong>API Design</strong><br/>
+<sub>RESTful & Reliable Services</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="52" alt="Database"/><br>
-      <strong>Database Design</strong><br>
-      <sub>Modeling & Query Optimization</sub>
-    </td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/96/database.png" width="52"/><br/><br/>
+<strong>Database Design</strong><br/>
+<sub>Modeling & Query Optimization</sub>
+</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="52" alt="Security"/><br>
-      <strong>Application Security</strong><br>
-      <sub>Authentication & Authorization</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="52"/><br/><br/>
+<strong>Application Security</strong><br/>
+<sub>Authentication & Authorization</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/speed.png" width="52" alt="Performance"/><br>
-      <strong>Performance Engineering</strong><br>
-      <sub>Optimization & Web Performance</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/speed.png" width="52"/><br/><br/>
+<strong>Performance Engineering</strong><br/>
+<sub>Optimization & Web Performance</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/web-design.png" width="52" alt="UI Engineering"/><br>
-      <strong>UI Engineering</strong><br>
-      <sub>Responsive & Accessible Interfaces</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="52"/><br/><br/>
+<strong>UI Engineering</strong><br/>
+<sub>Responsive & Accessible Interfaces</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/test-passed.png" width="52" alt="Testing"/><br>
-      <strong>Testing & Debugging</strong><br>
-      <sub>Quality & Reliability</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/test-passed.png" width="52"/><br/><br/>
+<strong>Testing & Debugging</strong><br/>
+<sub>Quality & Reliability</sub>
+</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/cloud.png" width="52" alt="Deployment"/><br>
-      <strong>Deployment</strong><br>
-      <sub>Production & Delivery Workflows</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="52"/><br/><br/>
+<strong>Deployment</strong><br/>
+<sub>Production & Delivery Workflows</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/rocket.png" width="52" alt="Production"/><br>
-      <strong>Production Mindset</strong><br>
-      <sub>Build · Deploy · Improve</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="52"/><br/><br/>
+<strong>Production Mindset</strong><br/>
+<sub>Build · Deploy · Improve</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/module.png" width="52" alt="Scalability"/><br>
-      <strong>Scalability</strong><br>
-      <sub>Reliable Application Growth</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/module.png" width="52"/><br/><br/>
+<strong>Scalability</strong><br/>
+<sub>Reliable Application Growth</sub>
+</td>
 
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/fluency/96/system-information.png" width="52" alt="Engineering"/><br>
-      <strong>Engineering Practices</strong><br>
-      <sub>Design · Review · Improve</sub>
-    </td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/system-information.png" width="52"/><br/><br/>
+<strong>Engineering Practices</strong><br/>
+<sub>Design · Review · Improve</sub>
+</td>
 
-  </tr>
+</tr>
 </table>
 
-<br>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Engineering-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Quality-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Production-Ready-0891b2?style=for-the-badge" />
-</p>
+<div align="center">
 
-## 📊 GitHub Statistics
+<img src="https://img.shields.io/badge/Architecture-Engineering-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code-Quality-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-Optimization-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Production-Ready-0891b2?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -357,7 +601,47 @@ A database-driven art gallery website developed for managing and presenting artw
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Professional Interests
+
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+<h3>🌐</h3>
+<strong>Full-Stack Development</strong>
+</td>
+
+<td align="center" width="220">
+<h3>⚡</h3>
+<strong>MERN Engineering</strong>
+</td>
+
+<td align="center" width="220">
+<h3>🏗️</h3>
+<strong>Software Architecture</strong>
+</td>
+
+<td align="center" width="220">
+<h3>🤖</h3>
+<strong>Practical AI</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤝 Collaboration
+
+I am interested in collaborating on **real-world web applications, full-stack projects, creative technology projects, and software engineering initiatives** where I can contribute, learn, and grow as a developer.
+
+I am particularly interested in opportunities involving:
+
+`Full-Stack Development` · `MERN Stack` · `Frontend Engineering` · `Backend Development` · `REST APIs` · `Software Architecture`
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -381,28 +665,14 @@ A database-driven art gallery website developed for managing and presenting artw
 
 ---
 
-## 🎯 Professional Interests
-
-- Full-Stack Web Development
-- MERN Stack Engineering
-- Modern Frontend Development
-- Backend & API Development
-- Software Architecture
-- Developer Tools & Productivity
-- Practical AI Applications
-
----
-
-## 🤝 Collaboration
-
-I am interested in collaborating on **real-world web applications, full-stack projects, creative technology projects, and software engineering initiatives** where I can contribute, learn, and grow as a developer.
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h2>⭐ Thanks for visiting my profile!</h2>
 
-<strong>Building. Learning. Improving. Shipping.</strong>
+<strong>Building · Learning · Improving · Shipping</strong>
+
+<br /><br />
+
+<em>Turning ideas into practical software.</em>
 
 </div>
