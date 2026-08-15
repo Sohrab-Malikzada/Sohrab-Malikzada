@@ -90,8 +90,8 @@ I enjoy turning ideas into functional software, solving technical problems, lear
 </td>
 
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=oracle" width="50"/><br/>
-<strong>Oracle</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/><br/>
+  <strong>Oracle</strong>
 </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/> <strong>Firebase</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/> <strong>Supabase</strong> </td> </tr> </table>
 📱 Mobile Development
 <table> <tr> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=react" width="50"/><br/> <strong>React Native</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/> <strong>Flutter</strong> </td> <td align="center" width="140"> <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/> <strong>Dart</strong> </td> </tr> </table>
