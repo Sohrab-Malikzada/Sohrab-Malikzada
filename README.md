@@ -225,23 +225,117 @@ A database-driven art gallery website developed for managing and presenting artw
 </tr>
 </table>
 
----
+
 
 ## 📈 Development Focus
 
-My current focus is becoming a stronger **Full-Stack Web Developer** by improving:
+<p align="center">
+  <strong>Engineering for scalable, maintainable, and production-ready web applications.</strong>
+</p>
 
-- Software architecture
-- Clean and maintainable code
-- API design
-- Database design
-- Authentication and authorization
-- Performance optimization
-- Responsive UI engineering
-- Testing and debugging
-- Deployment and production workflows
+<p align="center">
+  <sub>
+    My current focus is strengthening my Full-Stack Engineering skills through
+    architecture, clean code, system reliability, performance, and production workflows.
+  </sub>
+</p>
 
----
+<br>
+
+<table align="center">
+  <tr>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/blueprint.png" width="52" alt="Architecture"/><br>
+      <strong>Software Architecture</strong><br>
+      <sub>Scalable & Maintainable Systems</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/code.png" width="52" alt="Clean Code"/><br>
+      <strong>Clean Code</strong><br>
+      <sub>Readable & Maintainable Codebases</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/api.png" width="52" alt="API Design"/><br>
+      <strong>API Design</strong><br>
+      <sub>RESTful & Reliable Services</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/database.png" width="52" alt="Database"/><br>
+      <strong>Database Design</strong><br>
+      <sub>Modeling & Query Optimization</sub>
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="52" alt="Security"/><br>
+      <strong>Application Security</strong><br>
+      <sub>Authentication & Authorization</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/speed.png" width="52" alt="Performance"/><br>
+      <strong>Performance Engineering</strong><br>
+      <sub>Optimization & Web Performance</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/web-design.png" width="52" alt="UI Engineering"/><br>
+      <strong>UI Engineering</strong><br>
+      <sub>Responsive & Accessible Interfaces</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/test-passed.png" width="52" alt="Testing"/><br>
+      <strong>Testing & Debugging</strong><br>
+      <sub>Quality & Reliability</sub>
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/cloud.png" width="52" alt="Deployment"/><br>
+      <strong>Deployment</strong><br>
+      <sub>Production & Delivery Workflows</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/rocket.png" width="52" alt="Production"/><br>
+      <strong>Production Mindset</strong><br>
+      <sub>Build · Deploy · Improve</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/module.png" width="52" alt="Scalability"/><br>
+      <strong>Scalability</strong><br>
+      <sub>Reliable Application Growth</sub>
+    </td>
+
+    <td align="center" width="220">
+      <img src="https://img.icons8.com/fluency/96/system-information.png" width="52" alt="Engineering"/><br>
+      <strong>Engineering Practices</strong><br>
+      <sub>Design · Review · Improve</sub>
+    </td>
+
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Engineering-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Quality-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Optimization-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production-Ready-0891b2?style=for-the-badge" />
+</p>
 
 ## 📊 GitHub Statistics
 
