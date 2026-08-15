@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full-Stack%20Web%20Developer&section=header&reversal=false&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN%20Stack&fontAlignY=42&fontSize=55&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aspiring%20Full-Stack%20Developer&section=header&reversal=false&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN%20Stack&fontAlignY=42&fontSize=55&fontAlign=50" width="100%" />
 
 <br />
 
 <h1>👨‍💻 Sohrab Malikzada</h1>
 
-<h3>Full-Stack Web Developer · Software Engineering Student</h3>
+<h3>Aspiring Full-Stack Developer · Software Engineering Student</h3>
 
 <p>
 Building modern, responsive, and user-focused web applications with a strong focus on
@@ -62,7 +62,7 @@ Every interface is a canvas, every line of code a brushstroke."
 
 # 🚀 About Me
 
-I am a **Software Engineering student and Full-Stack Web Developer** focused on building practical, responsive, and user-centered web applications.
+I am a **Software Engineering student and Aspiring Full-Stack Developer** focused on building practical, responsive, and user-centered web applications.
 
 My primary specialization is the **MERN Stack**, with hands-on experience developing frontend interfaces, REST APIs, database-driven applications, authentication flows, CRUD systems, dashboards, e-commerce platforms, and management systems.
 
@@ -201,11 +201,6 @@ I enjoy transforming ideas into functional software, solving technical problems,
 <td align="center" width="150">
 <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
 <strong>MySQL</strong>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br/>
-<strong>SQL / PostgreSQL</strong>
 </td>
 
 <td align="center" width="150">
