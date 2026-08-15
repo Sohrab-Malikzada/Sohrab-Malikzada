@@ -581,23 +581,7 @@ testing, and production workflows.
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab-Malikzada&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
@@ -708,6 +692,26 @@ I am particularly interested in opportunities involving:
 `Full-Stack Development` · `MERN Stack` · `Frontend Engineering` · `Backend Development` · `REST APIs` · `Software Architecture`
 
 ---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab-Malikzada&theme=tokyonight&hide_border=true" width="100%" />
+
+</div>
+
+
 
 # 🌐 Connect With Me
 
