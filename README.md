@@ -713,104 +713,33 @@ I am particularly interested in opportunities involving:
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://sohrabmalikzada.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://vercel.com/sohrabmalikzada2003-8136s-projects">
+    <img src="https://img.shields.io/badge/Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Projects"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sohrab-malikzada">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/93783473212">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sohrabmalikzada2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<table>
-<tr>
-
-<td align="center" width="180">
-
-<a href="https://sohrabmalikzada.vercel.app/">
-<img src="https://cdn.simpleicons.org/vercel/white" width="38" height="38" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<a href="https://sohrabmalikzada.vercel.app/">
-<strong>PORTFOLIO</strong>
-</a>
-
-<br/>
-
-<sub>Explore my work</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<a href="https://vercel.com/sohrabmalikzada2003-8136s-projects">
-<img src="https://cdn.simpleicons.org/vercel/white" width="38" height="38" alt="Vercel"/>
-</a>
-
-<br/><br/>
-
-<a href="https://vercel.com/sohrabmalikzada2003-8136s-projects">
-<strong>VERCEL</strong>
-</a>
-
-<br/>
-
-<sub>Live deployments</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<a href="https://linkedin.com/in/sohrab-malikzada">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/sohrab-malikzada">
-<strong>LINKEDIN</strong>
-</a>
-
-<br/>
-
-<sub>Professional profile</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<a href="https://wa.me/93783473212">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="38" height="38" alt="WhatsApp"/>
-</a>
-
-<br/><br/>
-
-<a href="https://wa.me/93783473212">
-<strong>WHATSAPP</strong>
-</a>
-
-<br/>
-
-<sub>Direct contact</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<a href="mailto:sohrabmalikzada2003@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:sohrabmalikzada2003@gmail.com">
-<strong>EMAIL</strong>
-</a>
-
-<br/>
-
-<sub>Get in touch</sub>
-
-</td>
-
-</tr>
-</table>
-
+<p align="center">
+  <sub>
+    Portfolio · Live Projects · LinkedIn · WhatsApp · Email
+  </sub>
+</p>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0891b2" width="70%"/>
