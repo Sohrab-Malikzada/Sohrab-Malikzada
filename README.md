@@ -740,16 +740,23 @@ I am particularly interested in opportunities involving:
     Portfolio · Live Projects · LinkedIn · WhatsApp · Email
   </sub>
 </p>
+
 <br/>
 
-<sub>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient" width="70%"/>
-</sub>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"
+    width="70%"
+    alt="Section Divider"
+  />
+</p>
 
-<br/> 
+<br/>
 
 <p align="center">
-  <em>Open to opportunities, collaboration, and meaningful software projects.</em>
+  <em>
+    Open to opportunities, collaboration, and meaningful software projects.
+  </em>
 </p>
 
 </div>
