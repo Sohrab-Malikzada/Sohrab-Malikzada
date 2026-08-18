@@ -70,11 +70,11 @@ I enjoy taking an idea from concept to working software — designing interfaces
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,jquery&perline=8" />
 
 </div>
 
-**HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS · Bootstrap · Next.js · Vite**
+**HTML5 · CSS3 · JavaScript · TypeScript · React.js · Tailwind CSS · Bootstrap · jquery**
 
 ### Backend
 
@@ -100,21 +100,21 @@ I enjoy taking an idea from concept to working software — designing interfaces
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,flutter,dart&perline=3" />
+<img src="https://skillicons.dev/icons?i=react,flutter&perline=3" />
 
 </div>
 
-**React Native · Flutter · Dart**
+**React Native · Flutter**
 
 ### Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&perline=5" />
 
 </div>
 
-**Git · GitHub · VS Code · Figma · Postman**
+**Git · GitHub · VS Code · Android Studio · Figma · Rast ARIs**
 
 ---
 
@@ -175,13 +175,12 @@ A database-driven web application designed to manage and present artwork through
 <div align="center">
 
 | Technology | Focus |
+<img src="https://skillicons.dev/icons?i=nextjs,react,electron,&perline=5" />
+
 |:---:|:---|
-| ⚛️ **Next.js** | Full-Stack React Development |
-| 📱 **React Native** | Cross-Platform Mobile Development |
-| 🟨 **Advanced JavaScript** | Runtime · Async · Performance |
-| 🏗️ **Application Architecture** | Frontend & Backend Design |
-| ⚙️ **API Architecture** | Backend Services & API Design |
-| ⚡ **Web Performance** | Optimization & Runtime Performance |
+| ⚛️ **Next.js** | create high-quality web applications with the power of React components.| 
+| 📱 **React Native** | Cross-Platform Mobile Development with JavaScript |
+| 🖥️ **Electron.js** | cross-platform Desktop Development with JavaScript |
 
 </div>
 
@@ -223,17 +222,21 @@ Areas I’m particularly interested in:
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&hide_border=true&rank_icon=github"
+  height="170"
+  alt="GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab-Malikzada&theme=tokyonight&hide_border=true" width="80%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&hide_border=true"
+  height="170"
+  alt="Top Languages"
+/>
 
 </div>
 
