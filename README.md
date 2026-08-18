@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full-Stack%20Developer&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN%20Stack&descAlign=50&descAlignY=58&fontAlign=50&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:2563EB&text=Full-Stack%20Developer&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN-Stack&fontColor=FFFFFF&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40&descSize=24&descAlignY=60" width="100%" />
 
 <br />
 
