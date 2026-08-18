@@ -23,6 +23,9 @@ Building practical, responsive, and user-focused web applications with a primary
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohrabmalikzada2003@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://wa.me/93783473212">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 <br/><br/>
 
