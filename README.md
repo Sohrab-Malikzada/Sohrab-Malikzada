@@ -174,13 +174,13 @@ A database-driven web application designed to manage and present artwork through
 
 <div align="center">
 
-| Technology | Focus |
-<img src="https://skillicons.dev/icons?i=nextjs,react,electron,&perline=5" />
+| Technology | Focus | <br/>
+|:---:|:---| <br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,electron,&perline=5" /> <br/>
 
-|:---:|:---|
-| ⚛️ **Next.js** | create high-quality web applications with the power of React components.| 
-| 📱 **React Native** | Cross-Platform Mobile Development with JavaScript |
-| 🖥️ **Electron.js** | cross-platform Desktop Development with JavaScript |
+| ⚛️ **Next.js** | create high-quality web applications with the power of React components.| <br/>
+| 📱 **React Native** | Cross-Platform Mobile Development with JavaScript | <br/>
+| 🖥️ **Electron.js** | cross-platform Desktop Development with JavaScript | <br/>
 
 </div>
 
