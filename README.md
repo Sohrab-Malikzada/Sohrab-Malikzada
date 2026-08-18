@@ -203,11 +203,6 @@ I enjoy transforming ideas into functional software, solving technical problems,
 <strong>MySQL</strong>
 </td>
 
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/><br/>
-<strong>Oracle</strong>
-</td>
-
 </tr>
 
 <tr>
