@@ -237,11 +237,6 @@ I enjoy transforming ideas into functional software, solving technical problems,
 <strong>Flutter</strong>
 </td>
 
-<td align="center" width="170">
-<img src="https://skillicons.dev/icons?i=dart" width="60"/><br/>
-<strong>Dart</strong>
-</td>
-
 </tr>
 </table>
 
