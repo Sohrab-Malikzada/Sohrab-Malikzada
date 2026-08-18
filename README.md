@@ -175,8 +175,9 @@ A database-driven web application designed to manage and present artwork through
 <div align="center">
 
 | Technology | Focus | <br/>
-|:---:|:---| <br/>
+|:---:|:---:|:---:|
 <img src="https://skillicons.dev/icons?i=nextjs,react,electron,&perline=5" /> <br/>
+|:---:|:---:|:---:|
 
 | ⚛️ **Next.js** | create high-quality web applications with the power of React components.| <br/>
 | 📱 **React Native** | Cross-Platform Mobile Development with JavaScript | <br/>
@@ -227,13 +228,13 @@ Areas I’m particularly interested in:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Sohrab-Malikzada&show_icons=true&hide_border=true"
   height="170"
   alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&hide_border=true"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sohrab-Malikzada&layout=compact&hide_border=true"
   height="170"
   alt="Top Languages"
 />
