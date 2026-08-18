@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aspiring%20Full-Stack%20Developer&section=header&reversal=false&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN%20Stack&fontAlignY=42&fontSize=55&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full-Stack%20Developer&desc=Building%20Modern%20Web%20Applications%20with%20the%20MERN%20Stack&descAlign=50&descAlignY=58&fontAlign=50&fontAlignY=40" width="100%" />
 
 <br />
 
 <h1>👨‍💻 Sohrab Malikzada</h1>
 
-<h3>Aspiring Full-Stack Developer · Software Engineering Student</h3>
+<h3>Full-Stack Developer · Software Engineering Student</h3>
 
 <p>
 Building modern, responsive, and user-focused web applications with a strong focus on
