@@ -4,7 +4,7 @@
 
 <br/>
 
-# 👨‍💻 Sohrab Malikzada
+# Sohrab Malikzada
 
 ### Full-Stack Developer · Software Engineering Student
 
