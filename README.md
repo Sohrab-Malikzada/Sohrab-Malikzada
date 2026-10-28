@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sohrab Malikzada
 
----
+### 💻 Full-Stack Web Developer 
 
-## 💻 Full-Stack Web Developer 
 I'm a developer focused on building fast, modern, and clean web applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**.
 
 ---
