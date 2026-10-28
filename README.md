@@ -17,4 +17,4 @@ I'm a developer focused on building fast, modern, and clean web applications usi
 ## 🔥 What I Do
 
 - Build full-stack web apps
-- Develop APIs & dashboards
+- Develop REST APIs & backend services
