@@ -2,13 +2,13 @@
 
 ### 💻 Full-Stack Web Developer 
 
-I'm a developer focused on building fast, modern, and clean web applications using **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB**.
+I'm a developer focused on building fast, modern, and clean web applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
